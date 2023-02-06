@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "init.md",
+                "file": "Democracia Liquida/Sistema de Governança/White paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init.md",
+                "file": "Democracia Liquida/Sistema de Governança/White paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init.md",
+                "file": "Democracia Liquida/Sistema de Governança/White paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init.md"
+                "file": "Democracia Liquida/Sistema de Governança/White paper.md"
               }
             }
           }
@@ -146,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3c691ba52265914",
-  "lastOpenFiles": []
+  "active": "facc26a55f667aa6",
+  "lastOpenFiles": [
+    "Democracia Liquida/Sistema de Governança/Nome.md",
+    "Democracia Liquida/Sistema de Governança/White paper.md"
+  ]
 }
