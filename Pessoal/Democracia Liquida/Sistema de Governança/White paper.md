@@ -22,7 +22,7 @@ Representa a vontade de participantes sobre uma proposta específica
 Menor unidade dentro capaz de votar dentro do FlowDem. Indivíduos ou organizações de indivíduos que intrinssicamente opinam sobre propostas de forma consoante com apenas um voto. A forma para se chegar nesta decisão não cabe de definição por parte do FlowDem, importando apenas que se chegue a uma e somente uma decisão a respeito do voto. Caso haja dissonancia não resolvida dentro da decisão de uma partícula, a mesma deverá ser dividida ou dissolvida para a criação de duas ou mais partículas independentes onde cada uma deverá ter apenas uma decisão.
 
 ### Esfera
-Define o escopo dos conflitos e decisões a serem tomados. As particulas devem pertencer a esfera em questão para poder participar nas decisões da mesma.
+É o elemento de nível mais alto detro da metodologia FlowDem. Não existem definições ou determinações fora dos limites da esfera ou entre esferas. Define o escopo dos conflitos e decisões a serem tomados. As particulas devem pertencer a esfera em questão para poder participar nas decisões da mesma.
 
 ### Potência
 Determina o poder de decisão de cada partícula. A forma de cálculo da potencia varia de acordo com a implementação específica. Em uma esfera igualitária linear cada partícula tem potencia igual a 1, ou seja um voto por partícula.
@@ -32,15 +32,40 @@ Determina uma categoria a qual determinada decisão pertence. Cada decisão deve
 
 
 ### Criação e Gestão de Uma Esfera
-- Qualquer um pode iniciar uma nova esfera
-- A regra de adesão à esfera não é escopo da metodologia, ficando livre para a implementação definir
-- Tipos de gestão de esfera (espectro de totalmente gerenciada à totalmente descentralizada)
-- Definição clara de consequências sobre o descumprimento das decisões tomadas de forma democrática.
-- A inclusão e participação em uma esfera deve obrigatoriamente ser voluntária e representa o aceite nos termos de responsabilidade/consequencia e gestão da esfera. 
-- Alteraçao nos termos deve necessáriamente se consentida de forma direta e indelegável.
-- A não aceitação explicita por particulas de novos termos inativa a particula participante, isenta as mesmas de qualquer responsabilidade podendo inavalidar seu poder de voto, tornando-as efetivamente não participantes da esfera. 
-- Período de transição - Após alteração de termos, deve existir período de transição razoável, onde votações são suspensas. As regras para o termino deste período (minimo aceite, tempo máximo de transição) deve ser estipulado no termo de gestão .
-- Fica a cargo da implementação definir regras para validação da alteração dos termos de gestão. A não validação a priore, mantém válido o último termo anterior de gestão, salve expresso explicitamente regra contrária.
+
+Uma esfera determina as regras de funcinamento da democracia assim como as partículas participantes. Sugere-se definir um escopo e objetivo claro para cada esfera.
+
+As regras de adesão de particulas, a regra para definição de potência do voto, bom como a definição de propostas pautadasnão são escopo da metodologia, ficando livre para a implamentação definir a melhor forma.
+
+Isto implica que a gestão da esfera é livre e se enquadra em um espectro que vai de totalmente descentralizada a totalmente centralizada. 
+
+![[CleanShot 2023-02-08 at 07.59.42.png]]
+
+Para um modelo de governça se enquadrar na metodologia FlowDem é preciso observar algumas regras e definir alguns acordos inpendente do modelo de gestão, no que pode-se chamar de acordo de participação.
+
+### Acordo de Participação
+
+O acordo de participação precisa ter uma definição clara e transparente das responsabilidades e consequência do descumprimento das decisões tomadas de forma democárica. Pense neste ponto como uma cláusula de recisão em um contrato de trabalho. Como cada parte deve ser responsabilizada e restituída em caso de um (ou mais) descumprimentos.
+
+Deve também definir as regras para definição de potência de voto. É importante que esta seja definida de forma estática para que todos os participantes tenham consentido com as mesmas a priore da adesão na esfera.
+
+A regra de adesão à uma esfera é livre de denfição pela implementação da metodologia, mas a participação nela deve obrigatóriamente ser voluntária, pois a mesma represeta o aceite nos termos do acordo de participação.
+
+A participação de uma particúla dentro da esfera é sempre voluntária. Cabe ao acordo de participação estabelecer regras de responsabilidade e consequência para qualquer cenário imaginável de desassociação. A não definição de qualquer situação que venha a acontecer, isente qualquer participante de qualquer responsabilidade.
+
+### Alterações no Acordo de Participação
+
+As regras para alteração dos termos do acordo de participação devem ser estabelecidas. Não existe definição específica para este processo, mas mediante alteração de novos termos no acordo de participação é importante observar dois pontos: 
+
+- As partículas participantes precisam obrigatóriamente aceitar os novos termos de forma direta, não podendo haver qualquer tipo de delegação para o aceite dos novos termos.
+- Deve-se respeitar tempo de transição razoável onde nenhuma decisão poderá ser tomada, a menos que estabelecido pelo acordo de participação anterior, em carater de urgência à ser regido pelo acordo anterior, mas nunca para realizar novas alterações no acorodo de participação.
+
+O acordo de participação é um contrato entre os participantes de uma esfera. É fundamental o consentimento direto em quaisquer alterações de tal acordo, para preservar as partes. É importante observar o tempo de transição, pois durante o período transitório do acordo, enquanto as particulas não consentiram sobre os novos termos, a representatividade total da esfera será drasticamente desfigurada.
+
+Caso algumas partículas optem por não aceitar os novos termos, as mesmas poderão deixar a esfera, assumindo as responsabilidades e direitos do acordo prévio, desde que tal vontade seja expressada durante o período de transição.
+
+Caso determinada partícula não se pronuncie sobre o novo acordo de transição, poderá ser considerado, imediatamente ou sob prazo determinado, que a mesma abandonou a esfera. Assumindo-se assim as responsabilidades e consequências por ventura determinadas para este caso.
+ 
 
 ### Anatomia da proposta
  - Qual a estrutura básica de uma proposta
