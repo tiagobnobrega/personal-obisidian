@@ -23,7 +23,7 @@
 -  ~~ressoa~~ - Já existe um sistema de meio-ambiente com esse nome
 - dissonantz
 - Flowdem - Dominio disponível (um bom nome para o framework)
-- FluidDem - Domínio disponível
+- Fluidem - Domínio disponível
 - republiquid - Domínio disponível
 
 #### Sugestoes do chatgpt
